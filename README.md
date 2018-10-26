@@ -1,4 +1,4 @@
-# Shoal margin collapses
+# Shoal margin collapses (DOI: 10.5281/zenodo.1472212)
 Associated to the paper called: Effect of perturbations by shoal margin collapses on the morphodynamics of a sandy estuary, Journal of Geophysical Research - Earth Surface. 
 
 This resporatory contains the Matlab-code that was build to simulate shoal margin collapses in a numerical morphodynamics model (Delft3D) simulation. 
